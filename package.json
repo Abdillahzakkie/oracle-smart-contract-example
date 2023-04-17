@@ -5,7 +5,7 @@
 	"license": "MIT",
 	"dependencies": {
 		"@nomiclabs/hardhat-waffle": "^2.0.1",
-		"@openzeppelin/contracts": "^4.3.1",
+		"@openzeppelin/contracts": "^4.8.3",
 		"dotenv": "^10.0.0",
 		"ethers": "^5.4.6",
 		"hardhat": "^2.6.2"
